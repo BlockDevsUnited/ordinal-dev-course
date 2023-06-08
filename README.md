@@ -1,5 +1,7 @@
 # ordinal-dev-course
-Welcome to the Ordinal Developer Course. By completing this course, the intention is you will become an Ordinal Dev!
+Welcome to the Ordinal Developer Course. We are creating an Ordinal Developer Army.  By completing this course, the intention is you will become an Ordinal Dev!
+
+
 
 ## 1 - Run a Bitcoin Node 
 ### - Ubuntu Instructions
