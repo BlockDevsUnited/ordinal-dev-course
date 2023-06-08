@@ -13,6 +13,8 @@ https://docs.ordinals.com/guides/inscriptions.html
 
 ## 4 - Advanced Topics
 
+## Join Discord 
+![Discord Link](./1.png)
 ## Links
 Learn more about Bitcoin Ordinals https://ordinals.com
 Ordinal command line program - https://github.com/ordinals/ord
